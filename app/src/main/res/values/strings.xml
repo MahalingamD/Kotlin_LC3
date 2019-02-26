@@ -1,0 +1,41 @@
+<resources>
+    <!--<string name="app_name">LC3</string>-->
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">
+        android.support.design.widget.AppBarLayout$ScrollingViewBehavior
+    </string>
+
+
+    <string name="not_launch" translatable="false">Couldn\'t launch the market</string>
+    <string name="label_mobile_number">Mobile number</string>
+    <string name="label_get_otp">Get OTP</string>
+
+    <string name="alert_message_check_internet">Please check your internet connection</string>
+    <string name="label_resend_otp" translatable="false">Resend OTP</string>
+    <string name="label_enter_otp">Enter OTP</string>
+    <string name="label_submit">Submit</string>
+
+
+    <string name="label_home">Home</string>
+    <string name="label_language">Language</string>
+    <string name="label_about">About</string>
+
+
+
+    <string name="label_no_data_found">No Data Found</string>
+
+    <!--Drawer-->
+    <string name="open_drawer" translatable="false">Drawer Open</string>
+    <string name="close_drawer" translatable="false">Drawer Close</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="label_call_for_detail">CALL FOR DETAIL</string>
+    <string name="call_for_details">Call for details</string>
+
+    <string name="label_versatile">Versatile</string>
+    <string name="label_tough">Tough</string>
+    <string name="label_city">City</string>
+    <string name="label_state">State</string>
+</resources>

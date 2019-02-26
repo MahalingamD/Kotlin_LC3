@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+        xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="false"
+        android:background="@color/contentBackground">
+
+
+    <android.support.v7.widget.AppCompatImageView
+            android:layout_gravity="center"
+            android:layout_width="@dimen/splash_image_width"
+            android:layout_height="@dimen/splash_image_width"
+            app:srcCompat="@drawable/logo"/>
+
+
+</android.support.design.widget.CoordinatorLayout>
